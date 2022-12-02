@@ -1,2 +1,2 @@
-# Domain-adaptation-for-medical-image-segmentation
-Domain adaptation for medical image segmentation, a collection of literature reviews and code implementations.
+# Early tumor dignosis
+Early tumor dignosis, a collection of literature reviews and code implementations.
